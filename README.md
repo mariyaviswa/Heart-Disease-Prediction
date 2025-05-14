@@ -37,3 +37,5 @@ To understand the dataset attributes, One text file provided with named ->  `key
 
 ## User Interface 
 
+
+<img src="https://github.com/mariyaviswa/Heart-Disease-Prediction/blob/main/user_interface.png?raw=true" alt="User Interface">
